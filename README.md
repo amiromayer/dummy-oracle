@@ -1,3 +1,9 @@
-npm install
-truffle migrate
-truffle deploy
+#Installation
+
+```bash
+$ npm install
+```
+
+```bash
+$ truffle migrate && truffle deploy
+```
