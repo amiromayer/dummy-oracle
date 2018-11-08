@@ -8,7 +8,7 @@ $ npm install
 $ truffle migrate && truffle deploy
 ```
 
-## Run Server In The Background
+## Run server
 
 ```bash
 $ node oracle.js
